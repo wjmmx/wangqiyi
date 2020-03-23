@@ -9,3 +9,5 @@
 ## 搭建本地开发环境
 
 ### [jekyll安装](https://jekyllrb.com/docs/installation/)
+
+### [安装NexT主题](http://theme-next.simpleyyt.com/getting-started.html)
