@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 结庐 
+title: 结庐在人境 
 subtitle:
 description: 七一诗文
-author: 王七一
+author: 黑兔老头
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -15,7 +15,7 @@ date_format: '%Y-%m-%d'
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
 url: http://wangqiyi.me
-baseurl:
+baseurl: ""
 permalink: pretty
 
 # Pagination
