@@ -15,3 +15,5 @@
 > 建议通读一下Jekyll的[配置文档](https://jekyllcn.com/docs/configuration/)
 
 ### 参考
+
+[Liquid模板语言](https://shopify.github.io/liquid/)
