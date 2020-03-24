@@ -13,3 +13,5 @@
 ### [安装NexT主题](http://theme-next.simpleyyt.com/getting-started.html)
 
 > 建议通读一下Jekyll的[配置文档](https://jekyllcn.com/docs/configuration/)
+
+### 参考
